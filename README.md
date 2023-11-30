@@ -1,3 +1,4 @@
+![logo](https://github.com/tusharatkare06/TUSHAR-ATKARE/blob/main/datascience.png)
 <h1 align="center">Hi 👋, I'm Tushar Atkare</h1>
 <h3 align="center">🚀 Aspiring Data Scientist from India</h3>
 
